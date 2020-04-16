@@ -1,0 +1,39 @@
+.post{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.post form{
+    width: 30%;
+    margin-top: 2px;
+    padding: 2px;
+    color:white;
+    padding-left: 2px;
+    margin-bottom: 10px;
+   
+}
+
+.form-text{
+    width:95%; 
+    margin-left:10px;
+    margin-right:10px;
+}
+ .fset{
+     border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	margin: 0px 0px 0px 0px;
+	border: 1px solid #FFD2D2;
+}
+.fset legend{
+	color:black;
+	border-radius: 10px 10px 10px 0px;
+	font-weight: normal;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+form button{
+    margin: 10px
+}
